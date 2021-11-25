@@ -8,7 +8,8 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='exception_safe',
-    version='0.0.2',
+    url='https://github.com/tom-010/exception-safe',
+    version='0.0.3',
     author='Thomas Deniffel',
     author_email='tdeniffel@gmail.com',
     packages=['safe'], # find_packages(),
